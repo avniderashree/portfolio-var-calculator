@@ -312,9 +312,6 @@ def plot_portfolio_performance(
     return fig
 
 
-# Import Tuple for type hints
-from typing import Tuple
-
 
 if __name__ == "__main__":
     print("Visualization module loaded successfully.")
